@@ -1,3 +1,6 @@
+# Sorting Visualizer
+Built a ReactJS web-app for visualizing sorting algorithms. Implemented Merge Sort, Quick Sort, Heap Sort and Bubble Sort.
+
 ![image](https://user-images.githubusercontent.com/80414508/177540557-0b7cee41-6bd1-49c6-bb64-64ce4429fd38.png)
 
 ![image](https://user-images.githubusercontent.com/80414508/177540740-1daf2bc2-b237-43d7-a0a2-5f5404e01f62.png)
