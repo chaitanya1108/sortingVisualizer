@@ -1,0 +1,30 @@
+.container{
+    padding-top: 85px; 
+    background-image: linear-gradient(rgb(201, 209, 253), white);
+}
+
+.container>button{
+  transition-duration: 0.4s;
+  background-color: white;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  border: 1.2px solid;
+  margin: 15px;
+  padding: 20px;
+}
+
+.container>button:hover{
+  background-color: rgb(70, 76, 105); /* Green */
+  color: white;
+}
+
+.array-container {
+    margin-top: 30px; 
+}
+
+.array-bar {
+    width: 5px;
+    display: inline-block;
+    background-image: linear-gradient(rgb(70, 76, 105),rgb(187, 137, 253));
+    margin: 0 2px;
+}
